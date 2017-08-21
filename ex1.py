@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Hello Again")
+print('How are you?')
+print("I'd much rather use 'this'.")
+print('Than "that", but to each their own.')
